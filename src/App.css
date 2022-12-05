@@ -7,6 +7,24 @@
   pointer-events: none;
 }
 
+.padding-20 {
+  padding: 10px 20px;  
+}
+
+.max-width {
+  max-width: 600px;
+  margin: 0 auto
+}
+
+.header {
+  font-size: xx-large;
+  padding: 40px;
+}
+
+.instruction {
+  padding: 20px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
